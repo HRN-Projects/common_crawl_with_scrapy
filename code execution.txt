@@ -1,0 +1,16 @@
+Code can be executed in two ways -
+
+1. Enter scrapy crawl command :
+	a. Go to "scrapy_code\ccFetch\."
+	b. Open cmd/terminal
+	c. Type command - "scrapy crawl ccrawl -o cnn_data.xlsx -a domain=cnn.com"
+
+2. Use a python script:
+	a. Go to "scrapy_code\ccFetch\."
+	b. Open cmd/terminal
+	c. Type command - "python run_prog.py"
+	d. Enter the required information and the code execution will start.
+
+Note :
+	1. "-o" was used for passing output file name to crawler.
+	2. "-a" was used to pass any expected argument (domain, in this case).

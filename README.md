@@ -1,5 +1,5 @@
 # common_crawl_with_scrapy
-Parsing Common Crawl data to fetch required data with Python and Scrapy.
+Parsing Huge Web Archive files from Common Crawl data index to fetch any required domain's data concurrently with Python and Scrapy.
 
 ## About Common Crawl and this repository -
 ### What is Common Crawl
